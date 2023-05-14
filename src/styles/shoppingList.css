@@ -1,0 +1,6 @@
+.listing{
+    display: flex;
+	flex-wrap: wrap;
+    position: absolute;
+    margin-left: 11%;
+}

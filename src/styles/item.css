@@ -1,0 +1,19 @@
+.item{
+    height:280px;
+    width:250px;
+    background-color: aquamarine;
+    border: solid black 2px;
+    border-radius: 10px;
+    margin: 10px;
+    text-align: center;
+}
+.item:hover{
+    background-color: rgb(19, 143, 125);
+    border: solid white 2px;
+}
+.imageitem{
+    height:155px;
+    width:155px;
+    border-radius: 10px;
+    border: solid lightgray 2px;
+}
